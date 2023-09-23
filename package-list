@@ -1,0 +1,5 @@
+(("gerbil-leveldb" description: "Gerbil LevelDB bindings")
+ ("gerbil-libxml"  description: "Gerbil libxml2 bindings")
+ ("gerbil-libyaml" description: "Gerbil Libyaml bindings")
+ ("gerbil-lmdb"    description: "Gerbil LMDB bindings")
+ ("gerbil-mysql"   description: "Gerbil MySQL database driver"))
