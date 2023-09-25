@@ -5,9 +5,10 @@ in the [mighty-gerbils](https://github.com/mighty-gerbils) organization.
 
 This directory is searched by default by gxpkg when looking for packages.
 
-## Packages in this Directory
 See the [package list](package-list) for the raw list of packages in this
 directory.
+
+## Packages in this Directory
 
 | Package | Description |
 | ------- | ----------- |
