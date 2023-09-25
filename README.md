@@ -17,7 +17,7 @@ directory.
 | [github.com/mighty-gerbils/gerbil-persist](https://github.com/mighty-gerbils/gerbil-persist) | Data persistence layer |
 | [github.com/mighty-gerbils/gerbil-leveldb](https://github.com/mighty-gerbils/gerbil-leveldb) | LevelDB bindings |
 | [github.com/mighty-gerbils/gerbil-libxml](https://github.com/mighty-gerbils/gerbil-libxml) | libxml2 bindings |
-| [github.com/mighty-gerbils/gerbil-libyaml](https://github.com/mighty-gerbils/gerbil-libyaml) | Libyaml bindings |
+| [github.com/mighty-gerbils/gerbil-libyaml](https://github.com/mighty-gerbils/gerbil-libyaml) | libyaml bindings |
 | [github.com/mighty-gerbils/gerbil-lmdb](https://github.com/mighty-gerbils/gerbil-lmdb) | LMDB bindings |
 | [github.com/mighty-gerbils/gerbil-mysql](https://github.com/mighty-gerbils/gerbil-mysql) | MySQL database driver |
 | [github.com/mighty-gerbils/gerbil-poo](https://github.com/mighty-gerbils/gerbil-poo) | Prototype Object Orientation system |
